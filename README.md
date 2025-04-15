@@ -22,3 +22,4 @@ To run the game, you'll need:
 
 - A C++ compiler[Visual Studio](https://visualstudio.microsoft.com/))
 - A terminal/console to run the game
+- https://github.com/user-attachments/assets/41e3c545-e3c5-41b1-8db4-939460f44147
